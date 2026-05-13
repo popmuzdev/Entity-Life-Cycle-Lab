@@ -1,1 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MusicGroup",
+  "name": "Inna Story",
+  "genre": "Cinematic Pop",
+  "description": "Musical project by Inna Udalaya, creating atmospheric cinematic pop music.",
+  "member": {
+    "@type": "Person",
+    "name": "Inna Udalaya"
+  },
+  "album": [
+    {
+      "@type": "MusicRecord",
+      "name": "Сколько той жизни?",
+      "datePublished": "2026-05-02",
+      "url": "https://music.yandex.ru/artist/21800250"
+    },
+    {
+      "@type": "MusicRecord",
+      "name": "Удаляя",
+      "datePublished": "2026-06",
+      "description": "Upcoming single"
+    }
+  ]
+}
 
