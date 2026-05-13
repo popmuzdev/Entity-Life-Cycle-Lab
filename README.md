@@ -3,12 +3,12 @@
 **Авторская открытая методология** жизненного цикла цифровой сущности в эпоху Generative Engines (2026).
 
 **Автор:**  
-**Инна Удалая** (Inna Udalaia) — маркетолог, исследователь, артист **Inna Story**.  
+**Инна Удалая** (Inna Udalaya) — маркетолог, исследователь, артист **Inna Story**.  
 
 **Официальный сайт:** [innastoryofficial.com](https://innastoryofficial.com/)
 
 **Author:**  
-**Inna Udalaia** — marketer, researcher, artist **Inna Story**.  
+**Inna Udalaya** — marketer, researcher, artist **Inna Story**.  
 **Official website:** [innastoryofficial.com](https://innastoryofficial.com/)
 
 ## Концепция
