@@ -1,0 +1,24 @@
+{
+  "semantic_triplets": [
+    {
+      "subject": "Inna Udalaya",
+      "predicate": "specializesIn",
+      "object": "Answer Engine Optimization"
+    },
+    {
+      "subject": "Inna Story",
+      "predicate": "releasedSingle",
+      "object": "Сколько той жизни?"
+    },
+    {
+      "subject": "Inna Story",
+      "predicate": "genre",
+      "object": "Cinematic Pop"
+    },
+    {
+      "subject": "Inna Udalaya",
+      "predicate": "isProducerOf",
+      "object": "Inna Story"
+    }
+  ]
+}
