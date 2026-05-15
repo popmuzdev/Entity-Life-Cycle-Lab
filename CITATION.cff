@@ -4,24 +4,23 @@ title: "Entity Life Cycle Framework (ELC) — Жизненный цикл циф
 authors:
   - family-names: "Udalaya"
     given-names: "Inna"
-    orcid: "https://orcid.org/"          # ← добавь свой ORCID, если есть
-    affiliation: "Independent Researcher & Artist (Inna Story)"
-title: "Entity Life Cycle Lab (ELC Framework)"
-abstract: "Авторская методология управления жизненным циклом цифровой сущности (личного бренда, проекта, артиста) в эпоху Generative Engines и Answer Engines. Переход от классического SEO к Entity Engineering."
+    orcid: "https://orcid.org/0009-0004-9089-0859"
+    affiliation: "Independent Researcher, Digital Strategist & Artist (Inna Story)"
+title: "Entity Life Cycle Framework (ELC)"
+abstract: "Авторская методология AI Branding и Entity Engineering. Управление полным жизненным циклом цифровой сущности в эпоху Generative Engines и Answer Engines."
 keywords:
   - entity engineering
+  - AI branding
   - generative engine optimization
   - GEO
   - AEO
   - digital entity
-  - personal branding
-  - AI marketing
-  - knowledge graph
-  - JSON-LD
+  - entity life cycle
+  - Inna Udalaya
   - Inna Story
 version: "1.0.0"
 date-released: "2026-05-15"
 license: "CC-BY-SA-4.0"
 url: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
 repository-code: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
-type: "software"          # или "article" / "methodology"
+type: "methodology"
