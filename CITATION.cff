@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Если вы используете ELC Framework, пожалуйста, цитируйте его следующим образом."
+title: "Entity Life Cycle Framework (ELC) — Жизненный цикл цифровой сущности"
+authors:
+  - family-names: "Udalaya"
+    given-names: "Inna"
+    orcid: "https://orcid.org/"          # ← добавь свой ORCID, если есть
+    affiliation: "Independent Researcher & Artist (Inna Story)"
+title: "Entity Life Cycle Lab (ELC Framework)"
+abstract: "Авторская методология управления жизненным циклом цифровой сущности (личного бренда, проекта, артиста) в эпоху Generative Engines и Answer Engines. Переход от классического SEO к Entity Engineering."
+keywords:
+  - entity engineering
+  - generative engine optimization
+  - GEO
+  - AEO
+  - digital entity
+  - personal branding
+  - AI marketing
+  - knowledge graph
+  - JSON-LD
+  - Inna Story
+version: "1.0.0"
+date-released: "2026-05-15"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
+repository-code: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
+type: "software"          # или "article" / "methodology"
