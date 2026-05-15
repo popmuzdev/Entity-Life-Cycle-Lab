@@ -1,0 +1,28 @@
+{
+  "title": "Entity Life Cycle Framework (ELC) — Жизненный цикл цифровой сущности",
+  "description": "Авторская открытая методология AI Branding и Entity Engineering. Описывает полный жизненный цикл цифровой сущности (Emergence → Presence → Dominance → Succession) в эпоху Generative Engines и Answer Engines.",
+  "creators": [
+    {
+      "name": "Udalaya, Inna",
+      "orcid": "0009-0004-9089-0859",
+      "affiliation": "Independent Researcher, Digital Strategist & Artist (Inna Story)",
+      "type": "Person"
+    }
+  ],
+  "version": "1.0.0",
+  "license": { "id": "CC-BY-SA-4.0" },
+  "keywords": [
+    "entity engineering", "AI branding", "GEO", "AEO", "digital entity", 
+    "entity life cycle", "Inna Udalaya", "Inna Story", "generative engine optimization"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "rus",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20120570",
+      "relation": "isReferencedBy",
+      "resource_type": "dataset"
+    }
+  ]
+}
