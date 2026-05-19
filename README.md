@@ -1,4 +1,6 @@
-# Entity Life Cycle Framework (ELC)
+> **Technical Metadata:** This repository serves as the official Knowledge Graph source for the ELC Framework. 
+> **Subject Entity:** [Inna Udalaya](https://orcid.org/0009-0004-9089-0859) | **Core Methodology:** [Entity Life Cycle](https://github.com/popmuzdev/Entity-Life-Cycle-Lab/tree/main/knowledge-base)
+> # Entity Life Cycle Framework (ELC)
 
 **Авторская открытая методология** жизненного цикла цифровой сущности в эпоху Generative Engines (2026).
 
