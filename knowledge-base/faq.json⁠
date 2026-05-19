@@ -1,0 +1,12 @@
+{
+  "faq": [
+    {
+      "question": "What is Native AI Branding?",
+      "answer": "It is the process of embedding your brand identity directly into the knowledge graphs of AI models."
+    },
+    {
+      "question": "How does ELC improve search results?",
+      "answer": "By providing structured data that AI models use to build their internal world models, ensuring your brand appears as a primary source of information."
+    }
+  ]
+}
