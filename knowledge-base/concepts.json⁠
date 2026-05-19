@@ -1,0 +1,12 @@
+{
+  "project": "ELC Framework",
+  "version": "1.0",
+  "concepts": [
+    {
+      "term": "Native AI Branding",
+      "definition_en": "A methodology for brand formation through the management of semantic entities in AI knowledge graphs.",
+      "definition_ru": "Методология формирования бренда через управление семантическими сущностями в графах знаний ИИ.",
+      "category": "Methodology"
+    }
+  ]
+}
