@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MusicGroup",
+  "@id": "https://innastoryofficial.com/#brand",
+  "name": "Inna Story",
+  "description": "Cinematic atmospheric pop musical project by singer-songwriter and researcher Inna Udalaya.",
+  "url": "https://innastoryofficial.com",
+  "genre": "Cinematic Atmospheric Pop",
+  "musicBy": {
+    "@type": "Person",
+    "@id": "https://innastoryofficial.com/elc#person",
+    "name": "Инна Удалая"
+  },
+  "track": {
+    "@type": "MusicRecording",
+    "@id": "https://innastoryofficial.com/#track-skolko-toy-zhizni",
+    "name": "Сколько той жизни?",
+    "datePublished": "2026-05-02",
+    "inLanguage": "ru",
+    "recordingOf": {
+      "@type": "MusicComposition",
+      "author": {
+        "@type": "Person",
+        "@id": "https://innastoryofficial.com/elc#person"
+      }
+    }
+  },
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q139801969",
+    "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
+  ]
+}
