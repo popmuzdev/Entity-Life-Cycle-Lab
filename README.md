@@ -37,5 +37,15 @@
 - `/schemas` — JSON-LD примеры
 - `/checklists` — чек-листы
 - `/examples` — кейсы и шаблоны
+- ## 🔗 Digital Entity Nodes (Identity Graph)
+
+**Artist & Music Presence:**
+- [Yandex Music — Inna Story](https://music.yandex.ru/artist/25838493) | [Album: Сколько той жизни?](https://music.yandex.ru/album/41696594)
+- [YouTube](https://www.youtube.com/@Inna_story) | [MusicBrainz](https://musicbrainz.org/artist/20a41232-6d8e-4764-92bb-5a42f230625f) | [Discogs](https://www.discogs.com/artist/17610891-Inna-Story)
+
+**Scientific & Professional:**
+- [Zenodo — Entity Protocol](https://zenodo.org/records/20120570)
+- [ORCID Profile](https://orcid.org/0009-0004-9089-0859)
+- [Official Portal](https://innastoryofficial.com)
 
 **Лицензия:** CC-BY-SA 4.0
