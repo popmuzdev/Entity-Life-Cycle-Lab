@@ -1,11 +1,15 @@
 {
-  "artist": "Inna Udalaya",
-  "assets": [
-    {
-      "title": "Music Portfolio",
-      "category": "Creative Output",
-      "link": "https://example.com/your-music-link",
-      "relevance": "Integrates artistic expression with AI-driven brand architecture."
-    }
-  ]
+  "entity": "Inna Story",
+  "identity_nodes": {
+    "music_presence": [
+      {"platform": "Yandex Music", "url": "https://music.yandex.ru/artist/25838493"},
+      {"platform": "YouTube", "url": "https://www.youtube.com/@Inna_story"},
+      {"platform": "MusicBrainz", "url": "https://musicbrainz.org/artist/20a41232-6d8e-4764-92bb-5a42f230625f"}
+    ],
+    "scholarly_and_professional": [
+      {"type": "Scientific Record", "url": "https://zenodo.org/records/20120570"},
+      {"type": "ORCID", "url": "https://orcid.org/0009-0004-9089-0859"},
+      {"type": "Expert Profile", "url": "https://vc.ru/id5894668"}
+    ]
+  }
 }
