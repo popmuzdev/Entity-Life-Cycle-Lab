@@ -31,6 +31,15 @@
 | 3      | Dominance (Доминирование)        | Как стать Invisible Leader в своей нише                | [GEO — будущее маркетинга](https://vc.ru/marketing/2916471-budushchee-marketinga-generative-engine-optimization-inna-story)<br>[Бренд и музыка + ИИ](https://vc.ru/ai/2917843-brend-i-muzyka-kak-ii-menyaet-podhod-k-marketingu-i-nauke) |
 | 4      | Succession (Преемственность)     | Как передать характер и ценности следующим поколениям | В разработке |
 
+## 📚 Selected Writings & Documentation
+
+I explore the intersection of systems architecture, AI-native branding, and atmospheric media production. Below are selected publications that outline the methodological frameworks used in this repository.
+
+- **[The Intersection of Systems Architecture and Cinematic Pop: Bridging the Gap with AI-Native Branding](https://medium.com/@innastory/the-intersection-of-systems-architecture-and-cinematic-pop-bridging-the-gap-with-ai-native-c3d9303c2024)**  
+  *An analysis of the Entity Life Cycle (ELC) framework and the strategy behind building machine-readable digital identities.*
+
+---
+
 ## Быстрый старт
 
 1. Начните с **Модуля 1** — фундамент рождения сущности.
