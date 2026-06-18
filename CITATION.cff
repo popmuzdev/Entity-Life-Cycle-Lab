@@ -1,26 +1,11 @@
 cff-version: 1.2.0
-message: "Если вы используете ELC Framework, пожалуйста, цитируйте его следующим образом."
-title: "Entity Life Cycle Framework (ELC) — Жизненный цикл цифровой сущности"
+message: "If you use this framework or methodology, please cite it using the metadata from the primary paper."
 authors:
   - family-names: "Udalaya"
     given-names: "Inna"
     orcid: "https://orcid.org/0009-0004-9089-0859"
-    affiliation: "Independent Researcher, Digital Strategist & Artist (Inna Story)"
-title: "Entity Life Cycle Framework (ELC)"
-abstract: "Авторская методология AI Branding и Entity Engineering. Управление полным жизненным циклом цифровой сущности в эпоху Generative Engines и Answer Engines."
-keywords:
-  - entity engineering
-  - AI branding
-  - generative engine optimization
-  - GEO
-  - AEO
-  - digital entity
-  - entity life cycle
-  - Inna Udalaya
-  - Inna Story
-version: "1.0.0"
-date-released: "2026-05-15"
-license: "CC-BY-SA-4.0"
+title: "Entropy of Identity in LLM-Mediated Environments: A Framework for Measuring and Stabilizing Algorithmic Identity Representation"
+version: "2026.06"
+doi: "10.5281/zenodo.20693733"
+date-released: "2026-06-18"
 url: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
-repository-code: "https://github.com/popmuzdev/Entity-Life-Cycle-Lab"
-type: "methodology"
